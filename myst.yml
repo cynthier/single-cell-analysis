@@ -2,10 +2,11 @@
 version: 1
 project:
   id: ae24f2b1-5d99-4ec9-92f0-31687bafd9c3
-  # title:
-  # description:
+  title: single-cell analysis
+  description: This book record some ideas from paper and the notes from my own experience
   # keywords: []
-  # authors: []
+  authors: 
+    - name: Cynthia
   github: https://github.com/cynthier/single-cell-analysis
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
