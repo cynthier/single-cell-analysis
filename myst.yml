@@ -15,7 +15,7 @@ project:
     - file: 0_knowledge.md
       title: 1. Basic Knowledge
     - file: 1_processing.md
-      title: 2. Data processing
+      title: 2. scRNA-seq data analysis
 
 site:
   template: book-theme
