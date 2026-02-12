@@ -1,3 +1,4 @@
+# Basic knowledge
 ### **Transcript quantification**
 #### <u>plate-based protocols (full length)</u>
 an even coverage of transcripts is not always achieved with full-length protocols and therefore specific regions across the gene body may still be biased. full-length protocols is that they allow for the detection of splice variants.
