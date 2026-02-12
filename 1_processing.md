@@ -115,7 +115,7 @@ when select the features for annotation, the features should be batch-ware. That
 3. modified integration based on Harmony. [ref](https://pubmed.ncbi.nlm.nih.gov/31675496/)
 4. scanorama integration
 
-## Differentiation and trajectories
+## <u>10. Differentiation and trajectories</u>
 1. psupertime: supervised pseudotime approach based on a regression model, which explicitly uses time-series labels as input. It identifies genes that vary coherently along a time series
 
 2. Cellrank
