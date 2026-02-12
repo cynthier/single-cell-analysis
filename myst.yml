@@ -12,12 +12,10 @@ project:
   toc:
     - file: introduction.md
       title: Introduction
-    - part: scRNA-seq
-      chapters:
-        - file: 0_knowledge.md
-          title: 1. Basic Knowledge
-        - file: 1_processing.md
-          title: 2. Data processing
+    - file: 0_knowledge.md
+      title: 1. Basic Knowledge
+    - file: 1_processing.md
+      title: 2. Data processing
 
 site:
   template: book-theme
