@@ -16,7 +16,8 @@ project:
       title: 1. Basic Knowledge
     - file: 1_processing.md
       title: 2. scRNA-seq data analysis
-
+    - file: otherTricks.md
+      title: 3. Others
 site:
   template: book-theme
   # options:
